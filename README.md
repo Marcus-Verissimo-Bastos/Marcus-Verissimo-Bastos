@@ -14,14 +14,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
 </div>
 
-🎯 **Jovem Aprendiz** na área de **Sucesso do Cliente**  
-💻 Cursando **Análise e Desenvolvimento de Sistemas**  
-🚀 Apaixonado por tecnologia, programação e resolução de problemas  
+<div align="center">
+  🎯 **Jovem Aprendiz** na área de **Sucesso do Cliente**  
+  💻 Cursando **Análise e Desenvolvimento de Sistemas**  
+  🚀 Apaixonado por tecnologia, programação e resolução de problemas  
+</div>
+
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/marcus-bastos"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://linkedin.com/in/marcus-bastos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcus-bastos" height="30" width="40" /></a>
 </div>
 
 ###
