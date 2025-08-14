@@ -15,8 +15,8 @@
 </div>
 
 <div align="center">
-  🎯 <strong>Jovem Aprendiz</strong> na área de <strong>Sucesso do Cliente</strong>  
-  💻 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong>  
+  🎯 <strong>Jovem Aprendiz</strong> na área de <strong>Sucesso do Cliente</strong><br>  
+  💻 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong><br>
   🚀 Apaixonado por tecnologia, programação e resolução de problemas  
 </div>
 
