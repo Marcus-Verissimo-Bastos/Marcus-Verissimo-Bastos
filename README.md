@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Eu sou Marcus Bastos</h1>
-<h3 align="center">Jovem aprendiz Sucesso do Cliente | Estudante de análise e desenvolvimento de sistemas.</h3>
+<h3 align="center">Jovem aprendiz de Sucesso do Cliente | Estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
 - 🌱 Estou atualmente aprendendo **HTML, CSS e JavaScript**
 
